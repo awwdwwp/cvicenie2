@@ -1,5 +1,17 @@
 ## Screenshoty endpointov
-<img 
+## Práca z hodiny
+<img src="screenshots/e1.png">
+<img src="screenshots/e1_2.png">
+<img src="screenshots/e1_3.png">
+<img src="screenshots/e1_4.png">
+<img src="screenshots/e1_5.png">
+<img src="screenshots/e1_6.png">
+<img src="screenshots/e1_7.png">
+<img src="screenshots/e1_8.png">
+
+## Finálna úloha
+<img src="screenshots/e2_1.png">
+<img src="screenshots/e2_2.png">
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
